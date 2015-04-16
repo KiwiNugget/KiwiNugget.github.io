@@ -1,0 +1,55 @@
+h1 {
+	text-align: center;
+	color: red;
+}
+
+html {
+	/*background: url("../images/photoshopbackground.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;*/
+
+}
+
+p {
+	
+    color: #000000;
+	font-family: 'Indie Flower', cursive;
+	font-size: 2em;
+	text-align: center;
+
+}
+
+div.accept {
+	float: left;
+	background-color: red;
+	width: 200px;
+	min-height: 300px;
+	margin-right: 30px;
+}
+
+div.accept p {
+
+
+}
+
+div.reject {
+	float: left;
+	background-color: green;
+	width: 200px;
+	min-height: 300px;
+}
+
+/** {
+	border: black solid 1px;
+}*/
+
+
+img {
+	width: 100px;
+	height:  auto;
+	float: left;
+}
+
+
